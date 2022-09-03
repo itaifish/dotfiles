@@ -1,3 +1,5 @@
+// Install with: 
+// yarn add -D eslint eslint-config-prettier eslint-plugin-prettier prettier @typescript-eslint/parser eslint-plugin-react @typescript-eslint/eslint-plugin eslint-config-next
 module.exports = {
 	root: true,
 	plugins: ['react'],
